@@ -1,0 +1,79 @@
+• 1. Edad
+• 2. Genero
+		a)femenino, Masculino, Otro (especifique)
+• 3. Etapa que se encuentra
+		a) Buscando quedar embarazada
+		b) Embarazada (indica tiempo que estima dar a luz)
+		c) Posparto
+• 4. Fecha de Vuelta al trabajo
+		a) Fecha
+		b) No lo se/ No aplica
+		c) No volvere a trabajar hasta nuevo aviso
+
+
+
+• 1. Nombre de bebe
+a)
+Oportunidad de agregar mas de 4
+• 2. Fecha de Nacimiento
+• 3. Genero (Nina, Nino, No binario)
+• Tipo de lactancia:
+		a) Lactancia
+		b) Formula
+		c) Lactancia diferida
+		d) Lactancia mixta
+• Peso y medida (kg o lb) (in o cm) **** medidas estandar
+
+
+• Resumen de perfil:
+Favor de incluir cuanto tiempo tiene bebe (segun informacion la mama registro)
+a) Ya sea este embarazada
+b) Ya sea este posparto
+
+• Promocion de “Consigue una pompa” con foto de una pompa de nuestra tienda
+• Mostrar los blogs que subimos
+
+Sistema de entradas 
+
+• Le mostrara en resumen todo lo que ella colocara. 
+Por ejemplo:
+
+Datos se recopilan diariamente 
+
+Lactancia artificial y lactancia natural 
+
+a) Tiempo en extracción *** Cronometro
+
+*** tiempo en dejar la leche fórmula ***
+
+b) Tiempo en lactancia  ** Cronometro
+--------------------------------------------------------------
+
+c) Hora que brindo biberón    *** recopilar fecha hora  automatico 					   	
+soporta múltiples entradas 
+
+d) Oz que produjo en la extracción 				   	
+onzas por cada ceno extracción lactancia  **** recopilar cantidad por cada ceno 
+
+e) Cantidad de veces que cambio el panal    ccantidad veces cambio de pañal	
+soporta múltiple diario
+
+
+f) Horas que el bebe durmió  				horas manual 					
+soporta múltiple diario
+
+g) Cambio de medida  
+medida estatura soporta mensual {medida posible de tamaño}   medida manuial 
+
+h) Cambio en el peso del bebe
+medida estatura soporta semanal  {medida posible de tamaño}   manual 
+
+
+
+
+=============================================
+i) Contracciones
+Soporta  no es requerido     solo si esta envarasada 
+
+
+ginecologo informacion 

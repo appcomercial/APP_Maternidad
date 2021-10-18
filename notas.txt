@@ -1,0 +1,84 @@
+sudo /opt/lampp/lampp start
+
+
+http://localhost/Proyecto/maternidad/Prototipo/htdocs/index.php
+https://localhost/dashboard/
+
+http://maternidad.epizy.com/
+
+https://www.ostraining.com/blog/coding/stopwatch/‬
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_weight_converter_pounds_to_kilograms‬
+
+https://www.chartjs.org/‬
+
+===========================================================================
+Instruciones: 
+
+
+Rafael prog: El reloj correrá hasta que la mamá lo detenga.
+
+Rafael prog: Pero seria para cada seno.
+
+Rafael prog: Seno A seno B
+Ok si el mismo cronómetro para ambos cenos
+
+Rafael prog: Exacto
+======================================================================
+Rafael prog: Pero seria el guardar seria para ceno 1 y ceno 2
+Ok entonces después de agregar el bebé para donde envío al usuario ?
+======================================================================
+
+Perfil
+
+
+Perfil ok .
+O lista de agregados. Cualquier de los dos.
+
+Entonces creo un botón lactancia para dirigirlo a la sección de lactancia
+Exacto
+Recuerda que el perfil tener eso pero puedo ponerlo aparte
+
+Rafael prog: Pero
+
+Rafael prog: Sería por cada bebe
+
+Rafael prog: Ok
+
+Rafael prog: Oohh
+
+
+========================================================================
+Rafael prog: Puedes darle opción al momento de guardarlo Buenos sí que la lactancia será por bebé individual. 
+
+Pues hay que hacer otra tabla para registrar las cosas por cada bebe
+========================================================================
+
+=====================================================
+Rafael prog: Si tiene 2 bebe pues diga a cual seria
+=====================================================
+
+Rafael prog: Perfecto
+
+Rafael prog: Puedes facilitar eso
+
+Rafael prog: Creo que sería más fácil de esta forma
+Ho bueno si con un selecto que despide los bebés que tene registrado.
+
+
+==========================================================================
+Cronómetro guarda y sale el nombre a que bebe quiere guardar la información y listo.
+Si sería más fácil recuperar los datos de lactancia por bebé.
+==========================================================================
+
+Rafael prog: Exacto
+
+Rafael prog: Sii
+
+Rafael prog: Así no te rompe mucho la cabeza
+
+Rafael prog: ;)
+No es rompercd la cabeza es normalización de los datos. A largo plazo es mejor así.
+Osea eso mismo jajaja
+Ok ya lo tengo en el chat grabado. Adicional me percate que el nombre de usuario no sale correctamente al momento de inicio de sesión nuevo.
+Tengo que ver eso.

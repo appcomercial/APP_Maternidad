@@ -130,6 +130,7 @@ function cronometro(argument) {
 	btn_capturar.addEventListener("click", function(argument) {
 
 		if (btn_ceno_izquerdo.classList.contains("w3-orange")) {
+
 			historial_izquerda.push(horas + "" + minutos + "" + segundos);
 			console.log('-----------------------------------');
 			console.log("Seno izquerdo historial");
@@ -137,6 +138,7 @@ function cronometro(argument) {
 			console.log('-----------------------------------');
 
 		} else if (btn_ceno_derecho.classList.contains("w3-orange")) {
+
 			historial_derecha.push(horas + "" + minutos + "" + segundos);
 			console.log('-----------------------------------');
 			console.log("Seno derecho historial");
@@ -144,6 +146,7 @@ function cronometro(argument) {
 			console.log('-----------------------------------');
 
 		} else {
+
 			alert("debes elegir el lado del ceno ");
 		}
 
@@ -237,6 +240,24 @@ function cronometro(argument) {
 		}
 
 	}
+
+	function generaTiempos(derecha, izquerda) {
+
+		let fila = documet.createElement("TR");
+
+		if (derecha.length == izquerda.length) {
+
+		} else if (derecha.length > izquerda.length) {
+
+		} else {
+
+		}
+
+
+
+	}
+
+
 }
 
 cronometro();

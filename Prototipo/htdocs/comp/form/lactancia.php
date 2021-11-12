@@ -81,16 +81,3 @@
       </div>
    </div>
 </div>
-<!--        <select class="ceno" name="option">
-            <option disabled="" selected="" value="">
-               Selecione el ceno de lactancia
-            </option>
-            <option value="1">
-               ceno izquerdo
-            </option>
-            <option value="2">
-               ceno derecho
-            </option>
-         </select> -->
-<!--  <script src="../../js/cronometro/cronometro.js" type="text/javascript">
-   </script> -->

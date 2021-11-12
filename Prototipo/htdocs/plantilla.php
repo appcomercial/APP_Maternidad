@@ -1,4 +1,3 @@
-<!-- // Se carga le inicio dentro del fichero index  para proteger con htacces los directorios que no deben ser accedidos por los usuarios finales . -->
 <!DOCTYPE html>
 <html>
   <?php include_once "comp/head.php";?>
@@ -10,25 +9,7 @@
         <div class="w3-container cuerpo">
           <!-- ///////////////////////////////////////////////////////////// -->
           <!-- -->
-          <div class="w3-container">
-            <h2>
-              Componentes
-            </h2>
-            <p>
-              Los siguientes botones llevan a los componentes de la aplicación por separado.
-            </p>
-            <div class="w3-bar">
-              <a class="w3-button w3-black" href="">
-                xxx
-              </a>
-              <a class="w3-button w3-black" href="">
-                xxx
-              </a>
-              <a class="w3-button w3-black" href="">
-                xxx
-              </a>
-            </div>
-          </div>
+
           <!-- ///////////////////////////////////////////////////////////// -->
         </div>
         <!-- Cuerpo -->

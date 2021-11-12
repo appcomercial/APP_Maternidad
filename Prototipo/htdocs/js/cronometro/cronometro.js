@@ -2,6 +2,7 @@ function cronometro(argument) {
 	var horas = 0;
 	var minutos = 0;
 	var segundos = 0;
+	var total_segundos = 0;
 	var corriendo = false;
 	var intervalo;
 	var cene_selecionado = false;
@@ -131,18 +132,25 @@ function cronometro(argument) {
 
 		if (btn_ceno_izquerdo.classList.contains("w3-orange")) {
 
-			historial_izquerda.push(horas + "" + minutos + "" + segundos);
+			// historial_izquerda.push(horas + "" + minutos + "" + segundos); 
+			historial_izquerda.push(total_segundos);
+
 			console.log('-----------------------------------');
 			console.log("Seno izquerdo historial");
 			console.log(historial_izquerda);
+			console.log(historial_derecha);
+			generaTiempos(historial_derecha, historial_izquerda);
 			console.log('-----------------------------------');
 
 		} else if (btn_ceno_derecho.classList.contains("w3-orange")) {
 
-			historial_derecha.push(horas + "" + minutos + "" + segundos);
+			// historial_derecha.push(horas + "" + minutos + "" + segundos);
+			historial_derecha.push(total_segundos);
 			console.log('-----------------------------------');
 			console.log("Seno derecho historial");
+			console.log(historial_izquerda);
 			console.log(historial_derecha);
+			generaTiempos(historial_derecha, historial_izquerda);
 			console.log('-----------------------------------');
 
 		} else {
@@ -195,7 +203,7 @@ function cronometro(argument) {
 		horas = 0;
 		minutos = 0;
 		segundos = 0;
-
+		total_segundos = segundos;
 		hora.textContent = "00";
 		minuto.textContent = "00";
 		segundo.textContent = "00";
@@ -208,7 +216,7 @@ function cronometro(argument) {
 	function contador(argument) {
 
 		segundos += 1;
-
+		total_segundos = segundos;
 		if (segundos >= 60) {
 			segundos = 0;
 			minutos += 1;
@@ -243,15 +251,18 @@ function cronometro(argument) {
 
 	function generaTiempos(derecha, izquerda) {
 
-		let fila = documet.createElement("TR");
+		console.log(derecha.length);
+		console.log(izquerda.length);
 
-		if (derecha.length == izquerda.length) {
+		// let fila = documet.createElement("TR");
 
-		} else if (derecha.length > izquerda.length) {
+		// if (derecha.length == izquerda.length) {
 
-		} else {
+		// } else if (derecha.length > izquerda.length) {
 
-		}
+		// } else {
+
+		// }
 
 
 
